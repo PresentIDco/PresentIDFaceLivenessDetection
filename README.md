@@ -1,27 +1,24 @@
-# PresentIDFaceLivenessDetection
-What is Liveness Detection?
+### Face Liveness Detection
+PresentID Facial liveness detection can recognize the person in front of the video is real or fake. It can detect if the user is physically present and prevents masks, photos, or video deepfakes to fool the system. We use the convolutional neural network (CNN) deep learning algorithms to prevent fraud.
+**Ability & Potentials:**
+•	0.00005 FAR, 6% FRR.
+•	We process video frames & it takes 2-5 seconds on the client-side & Less than 1.5 seconds on the server-side with a Core i7 CPU.
+•	CPU based server-side.
+•	Verify 3-Dimensionality.
+•	Verify identity.
+•	Great with glasses, makeup & beards.
+•	For all modern smart devices & webcams.
+•	Support IOS, Android devices.
+•	Web client SDK & API.
+•	Easy integration with your app.
 
-PresentID Facial liveness detection can recognize the person in front of the video is real or fake. It can detect if the user is physically present and prevents masks,photos, or video deepfakes to fool the system.We use Convolutional Neural Network (CNN) deep learning algorithms to prevent fraud.
-
-We use combination of bio-metric authentication algorithms such as face, voice, Eye , head detection & tracking to have a highest accuracy to prevent fraud.
-PresentID Face Liveness Detection Demo Youtube Video
-Ability & Potentials:
-
-    Comparing the photo & Selfie, verifies if the person is real or fake.
-    We do not store the user data at any part of the procedure.
-    It recognizes all faces of people, not relies on their age, gender & region.
-    It can be performed in any devices independent from the type of OS.
-
-How to try it?
-
-1- Record a Velfie (Video Selfie)
-2- Upload file to API
-3- See the result (JSON result is available)
-PresentID Face Liveness Detection Tutorial Youtube Video
-Record a video selfie (Velfie):
-
-    Keep your hand in the about 40 cm distance. Put your face in the center of frame. Keep your head straight and fixed, with straight look. Now you can start recording. Then close the camera to your face, keeping same position and you can stop it when your face get fit the frame by sides.
-
-Call API
-
-As you can see in the sample code, the video file in multipart / Form-data format must be sent to the API. Note that do not send the file as base64in any way. Depending on the programming language you use, you can integrate with the service in the sample codes section.
+**Use Cases:**
+•	Attendance systems
+•	Dating websites
+•	Digital banking 
+•	Visitor identification
+•	Expedited service
+•	Access management
+•	Public safety
+•	Fraud prevention
+•	Know your customer
