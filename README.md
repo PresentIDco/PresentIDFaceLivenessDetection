@@ -21,7 +21,7 @@ On the server-side, our 3D face anti-spoofing model which is the convolutional m
 - https://youtu.be/Nia-5Npzsbg
 - https://youtu.be/uJJRdUe7Gos
 
-**Ability & Potentials:**
+**Features:**
 - We process video frames & it takes 2-5 seconds on the client-side & Less than 1.5 seconds on the server-side with a Core i7 CPU.
 - CPU based server-side.
 - Verify 3-Dimensionality.
@@ -33,12 +33,11 @@ On the server-side, our 3D face anti-spoofing model which is the convolutional m
 - Easy integration with your app
 
 **Use Cases:**
-- Attendance systems
-- Dating websites
-- Digital banking
-- Visitor identification
-- Expedited service
-- Access management
-- Public safety
-- Fraud prevention
-- Know your customer
+- Access Control
+- Onboarding
+- Fintech
+- Car sharing & Taxi
+- Online Brokers
+- Health Care
+- Dating Apps
+- Customer Support
