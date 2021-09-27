@@ -10,7 +10,6 @@ On the server-side, our 3D face anti-spoofing model which is the convolutional m
 
 
 
-![live-crop](https://presentid.com/assets/img/live-crop.png)
 
 **Face Liveness Detection Videos on Youtube**
 
